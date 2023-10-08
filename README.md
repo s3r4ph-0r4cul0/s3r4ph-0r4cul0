@@ -1,6 +1,6 @@
 # 👋 Hello world
-I'm Gabriel Fernandes, a passionate Cybersecurity and Automation. I currently study Cybersecurity at FIAP college.
-With 2 years of study in the field, I've had the opportunity to me involved on various exciting projects and explore different technologies.
+I'm Gabriel Fernandes, I'm in love about Cybersecurity and Automation. I'm currently studying Cybersecurity at FIAP college.
+After two years of study in the field, I've had the opportunity to get involved in various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
 
