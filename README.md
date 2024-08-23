@@ -1,6 +1,5 @@
 # 👋 Hello world
-I'm Gabriel Fernandes, I'm in love about Cybersecurity and Automation. I'm currently studying Cybersecurity at FIAP college.
-After two years of study in the field, I've had the opportunity to get involved in various exciting projects and explore different technologies.
+I'm an InfoSec enthusiast with a strong background in network infrastructure and a growing focus on offensive security. I have hands-on experience with SOC operations and Fortinet Firewalls, and I'm diving deeper into penetration testing and Red Team tactics. I enjoy working on projects that involve automation using Selenium and Python, as well as containerization with Docker. Currently, I'm working towards certifications in offensive and cloud security. I'm always up for collaboration to create secure and efficient solutions.
 
 # 💻 Tech Stack
 
