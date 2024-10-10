@@ -31,8 +31,6 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnubisChacal&show_icons=true)
-
 
 
 
