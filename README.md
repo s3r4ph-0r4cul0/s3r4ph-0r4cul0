@@ -13,6 +13,8 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <img align="center" alt="anubis-selenium" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> 
 </div><br>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 ### GitHub Stats
 
