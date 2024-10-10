@@ -5,9 +5,6 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
-<img align="center" alt="anubis-apache" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
-<img align="center" alt="anubis-ckoudflare" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original-wordmark.svg" />
-<img align="center" alt="anubis-selenium" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,azure,aws,gcp,linux,python,selenium,cloudflare" />
 </div><br>
 
