@@ -15,7 +15,7 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Ana+Cristina.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/8f/77/91/8f7791de31d675c9163a0888fedb9abc.jpg" alt="Pixel Art" align="right" width="200">
+<img src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" alt="Pixel Art" align="right" width="200">
 
 ### Technologies and tools:
 
