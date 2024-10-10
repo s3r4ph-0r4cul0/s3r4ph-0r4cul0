@@ -5,7 +5,7 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim,azure,aws,gcp,linux,python,selenium,cloudflare" />
+<img src="https://skillicons.dev/icons?i=docker,vim,azure,aws,gcp,debian,kali,py,selenium,cloudflare,bash,obsidian,vscode,windows" />
 </div><br>
 
 
