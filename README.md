@@ -10,7 +10,8 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <img align="center" alt="anubis-docker" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="anubis-linux" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="center" alt="anubis-python" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="anubis-selenium" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> 
+<img align="center" alt="anubis-selenium" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 </div><br>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)](https://skillicons.dev)
