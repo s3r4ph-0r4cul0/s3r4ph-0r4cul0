@@ -11,7 +11,7 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <img align="center" alt="anubis-docker" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
 <img align="center" alt="anubis-linux" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="center" alt="anubis-python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="anubis-python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />      
+<img align="center" alt="anubis-python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />      
 </div><br>
 
 ### GitHub Stats
@@ -28,3 +28,11 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <div> 
   <a href="https://www.linkedin.com/in/cristinanevesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
+
+
+
+
