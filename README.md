@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!;Hi%2C+Everyone!+I'm+Jo%C3%A3oFranka+%F0%9F%98%85)](https://git.io/typing-svg)
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="Pixel Art" align="right" width="200">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11B16F&width=435&lines=Hi%2C+Everyone!+I'm+Anubis+%F0%9F%A6%8A;Welcome+to+my+Github!)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" alt="Pixel Art" align="right" width="200">
 
-I'm a developer with a strong focus on back-end development and data analysis. I have experience working with Python, SQL, Docker, and Data Analysis to create efficient and scalable solutions. I enjoy automating processes and building APIs, with a growing interest in cloud computing and DevOps practices. Currently, I'm finalizing my studies in System Development and always open to collaborating on projects that involve innovation and problem-solving in development.
+I'm an InfoSec enthusiast with a strong background in network infrastructure and a growing focus on offensive security. I have hands-on experience with SOC operations and Fortinet Firewalls, and I'm diving deeper into penetration testing and Red Team tactics. I enjoy working on projects that involve automation using Selenium and Python, as well as containerization with Docker. Currently, I'm working towards certifications in offensive and cloud security. I'm always up for collaboration to create secure and efficient solutions.
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
@@ -14,8 +14,8 @@ I'm a developer with a strong focus on back-end development and data analysis. I
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/AnubisChacal">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=joaofranka2&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranka2&layout=compact&langs_count=7&theme=shadow_blue"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=AnubisChacal&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubisChacal&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
     
@@ -24,3 +24,9 @@ I'm a developer with a strong focus on back-end development and data analysis. I
 <div> 
   <a href="https://www.linkedin.com/in/cristinanevesb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
+
+
