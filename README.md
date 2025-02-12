@@ -26,6 +26,7 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 </div>
 
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1420299" style='border:none;'></iframe>
 
 
 
