@@ -24,10 +24,3 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-cybersecurity" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1420299" style='border:none;'></iframe>
-
-
-
-
