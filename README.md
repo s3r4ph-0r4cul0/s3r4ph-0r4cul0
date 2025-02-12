@@ -24,3 +24,5 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-cybersecurity" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Anubis.Chacal.png" alt="Your Image Badge" />
