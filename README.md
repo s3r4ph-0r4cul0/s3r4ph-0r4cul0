@@ -8,21 +8,8 @@ I'm an InfoSec enthusiast with a strong background in network infrastructure and
 <img src="https://skillicons.dev/icons?i=docker,vim,azure,aws,gcp,debian,kali,py,rust,selenium,cloudflare,bash,obsidian,vscode,windows" />
 </div><br>
 
-
-
-### GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/AnubisChacal">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=AnubisChacal&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnubisChacal&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
-</div>
-    
 ### Contact
 
 <div> 
   <a href="https://www.linkedin.com/in/gabriel-cybersecurity" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
