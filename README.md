@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/originals/0d/ea/6d/0dea6d019714ad365b3858492823f417.gif" alt="Pixel Art" align="right" width="200">
+<img src="https://v1.pinimg.com/videos/mc/720p/67/77/0f/67770fc99a0577275b1099e36077c5c5.mp4" alt="Pixel Art" align="right" width="200">
 
-I'm an InfoSec enthusiast with a strong background in network infrastructure and a growing focus on offensive security. I have hands-on experience with SOC operations and Fortinet Firewalls, and I'm diving deeper into penetration testing and Red Team tactics. I enjoy working on projects that involve automation using Selenium and Python, as well as containerization with Docker. Currently, I'm working towards certifications in offensive and cloud security. I'm always up for collaboration to create secure and efficient solutions.
+I’m an offensive security professional specializing in network and web application pentests, Active Directory exploitation, cloud security, and adversary simulation (Red Teaming). My work is rooted in methodologies like MITRE ATT&CK, OWASP, PTES, and NIST, with a strong emphasis on technical depth, realism, and reproducibility.
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
