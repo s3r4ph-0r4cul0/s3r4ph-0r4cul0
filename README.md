@@ -1,4 +1,5 @@
-<img src="https://v1.pinimg.com/videos/mc/720p/67/77/0f/67770fc99a0577275b1099e36077c5c5.mp4" >
+[![Watch the video](https://i.pinimg.com/1200x/e3/4e/07/e34e077343873454be40425920d5e339.jpg)](https://v1.pinimg.com/videos/mc/720p/67/77/0f/67770fc99a0577275b1099e36077c5c5.mp4)
+****
 
 I’m an offensive security professional specializing in network and web application pentests, Active Directory exploitation, cloud security, and adversary simulation (Red Teaming). My work is rooted in methodologies like MITRE ATT&CK, OWASP, PTES, and NIST, with a strong emphasis on technical depth, realism, and reproducibility.
 
