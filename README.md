@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/19/fb/a7/19fba7fab51a07a72c82652b7f1ebd59.jpg" width="400px" alt="Gecko Hacker Banner">
+  <img src="https://i.pinimg.com/736x/19/fb/a7/19fba7fab51a07a72c82652b7f1ebd59.jpg" width="200px" alt="Gecko Hacker Banner">
 </p>
 
 I’m an offensive security professional specializing in network and web application pentests, Active Directory exploitation, cloud security, and adversary simulation (Red Teaming). My work is rooted in methodologies like MITRE ATT&CK, OWASP, PTES, and NIST, with a strong emphasis on technical depth, realism, and reproducibility.
