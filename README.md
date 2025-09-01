@@ -1,5 +1,10 @@
-I’m an offensive security professional specializing in network and web application pentests, Active Directory exploitation, cloud security, and adversary simulation (Red Teaming). My work is rooted in methodologies like MITRE ATT&CK, OWASP, PTES, and NIST, with a strong emphasis on technical depth, realism, and reproducibility. 
+<p align="center">
+  # You may stop this individual, but you can't stop us all... after all, we're all alike.
+</p>
 
+<p align="center">
+  <img width="600" alt="Anjo Vermelho Imponente" src="https://github.com/user-attachments/assets/f91d3662-3115-4a88-a01d-c363089390fb" />
+</p>
 
 
 ### 💻 Tech Stack
