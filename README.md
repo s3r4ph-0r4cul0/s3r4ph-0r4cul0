@@ -1,5 +1,5 @@
 <p align="center">
-  # You may stop this individual, but you can't stop us all... after all, we're all alike.
+   *You may stop this individual, but you can't stop us all... after all, we're all alike.*
 </p>
 
 <p align="center">
