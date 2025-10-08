@@ -6,7 +6,6 @@
   <img width="600" alt="Anjo Vermelho Imponente" src="https://github.com/user-attachments/assets/f91d3662-3115-4a88-a01d-c363089390fb" />
 </p>
 
-<img width="1024" height="1024" alt="ChatGPT Image 8 de out  de 2025, 14_21_43" src="https://github.com/user-attachments/assets/228863e2-0b39-4c78-a151-8d7593cea2ad" />
 
 ### 💻 Tech Stack
 <div style="display: inline_block"><br>
