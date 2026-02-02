@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img width="600" alt="Anjo Vermelho Imponente" src="https://github.com/user-attachments/assets/f91d3662-3115-4a88-a01d-c363089390fb" />
+  <img width="600" alt="Anjo Vermelho Imponente" src="github.com/user-attachments/assets/1811f64b-1b39-4bf4-9493-a3e13807ff02" />
+" />
 </p>
 
 
